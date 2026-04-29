@@ -42,6 +42,7 @@ AutoPro demonstrates a full patching pipeline:
 
 ## Architecture
 
+```
 AutoPro/
 ├── GUI/
 │   ├── Command Center
@@ -58,6 +59,7 @@ AutoPro/
 │       └── Repackaging
 └── Recovery/
     └── Restore System (Revert to original state)
+```
 
 ------------------------------------------------------------------------
 
